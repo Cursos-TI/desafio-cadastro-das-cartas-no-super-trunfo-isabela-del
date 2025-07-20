@@ -33,6 +33,5 @@ int main() {
 
     printf("Carta 2:\n");
     exibirCarta(carta2);
-
     return 0;
 }
