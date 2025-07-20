@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 // Estrutura da carta
 typedef struct {
     char estado;
